@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehesultana" alt="mehesultana" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sultana_mehe" target="blank"><img src="https://img.shields.io/twitter/follow/sultana_mehe?logo=twitter&style=for-the-badge" alt="sultana_mehe" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sultanamehe" target="blank"><img src="https://img.shields.io/twitter/follow/sultanamehe?logo=twitter&style=for-the-badge" alt="sultanamehe" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
